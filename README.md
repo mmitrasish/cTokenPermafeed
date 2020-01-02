@@ -35,11 +35,11 @@ Data is archived from address `Nzza7AYNpAzSTVIcNJA-ye-_SzKZS-nPwkiJe4bAfEM` hour
 |---|---|---|---|
 |name|The name of the ctoken|	|Compound Sai|
 |symbol|The symbol of the ctoken| |cSAI|
-|token_address|The public Ethereum address of the cToken|USD/MKR|0xf5dce57282a584d2746faf1593d3121fcac444dc|
-|underlying_name|The name of the underlying token|USD/PETH|Sai|
-|underlying_symbol|The symbol of the underlying token|DAI|SAI|
+|token_address|The public Ethereum address of the cToken| |0xf5dce57282a584d2746faf1593d3121fcac444dc|
+|underlying_name|The name of the underlying token| |Sai|
+|underlying_symbol|The symbol of the underlying token| |SAI|
 |underlying_address|The address of the underlying token| |0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359|
-|underlying_price|The price of the underlying token in eth| |0.007535457218968673|
+|underlying_price|The price of the underlying token in eth|ETH|0.007535457218968673|
 |exchange_rate|The cToken / underlying exchange rate. This rate increases over time as supply interest accrues.| |0.021130231584625500|
 |collateral_factor|The amount of the value of the underlying token that will count as collateral.| |0.75000000000000000|
 |borrow_rate|The floating borrow interest rate| |0.091029851194463559|
